@@ -1,0 +1,1 @@
+{"particles":512,"actions":64,"candidates":24,"shortlist":12,"pair_pool":48,"budget":5,"k":5,"tau":1.0,"delta":0.2,"sigma":1.0,"cost":0.002,"evaluation_cost":0.002,"skip":0.15,"rejuvenation":2,"weights":[0.25,0.60,0.15],"context":[3.0,0.0],"purpose":"planning","require_verified":false}
